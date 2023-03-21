@@ -1,0 +1,6 @@
+go 1.20
+
+use (
+	./detect-number-of-connected
+	./min-sum-diff
+)
